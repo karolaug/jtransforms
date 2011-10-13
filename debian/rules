@@ -27,3 +27,7 @@ override_dh_install:
 	dh_link -plib$(DEB_SOURCE_PACKAGE)-java \
 		usr/share/java/$(DEB_SOURCE_PACKAGE)-$(DEB_UPSTREAM_VERSION).jar \
 		usr/share/java/$(DEB_SOURCE_PACKAGE).jar
+
+override_dh_clean:
+	dh_clean
+	rm -rf build

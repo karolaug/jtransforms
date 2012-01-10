@@ -1,5 +1,6 @@
-jtransforms (2.4) unstable; urgency=low
+jtransforms (2.4-1) unstable; urgency=low
 
   * Initial Release.
+  * Closes: #655420.
 
  -- Zbigniew Jędrzejewski-Szmek <zbyszek@in.waw.pl>  Wed, 05 Oct 2011 23:43:55 +0200

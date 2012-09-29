@@ -1,3 +1,9 @@
+jtransforms (2.4-1-ubuntu1) precise; urgency=low
+
+  * Initial ubuntu packaging.
+
+ -- Karol Auguštin <karol@augustin.pl>  Sat, 29 Sep 2012 13:15:25 +0200
+
 jtransforms (2.4-1) unstable; urgency=low
 
   * Initial Release.

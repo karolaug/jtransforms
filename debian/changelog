@@ -1,4 +1,4 @@
-jtransforms (2.4-1-ubuntu1) precise; urgency=low
+jtransforms (2.4-1ubuntu1) precise; urgency=low
 
   * Initial ubuntu packaging.
 

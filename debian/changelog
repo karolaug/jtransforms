@@ -1,6 +1,7 @@
 jtransforms (2.4-2) unstable; urgency=low
 
   * Rebuild with openjdk-7 as default-jdk.
+  * Set maintainer as myself.
 
  -- Karol Auguštin <karol@augustin.pl>  Sun, 06 Oct 2013 11:56:37 +0200
 

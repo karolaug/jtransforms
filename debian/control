@@ -2,7 +2,7 @@ Source: jtransforms
 Section: java
 Priority: optional
 Maintainer: Karol Auguštin <karol@augustin.pl>
-Build-Depends: debhelper (>= 8.0.0), ant, openjdk-6-jdk | java5-sdk
+Build-Depends: debhelper (>= 8.0.0), ant, default-jdk | java5-sdk
 Standards-Version: 3.9.2
 Homepage: http://sites.google.com/site/piotrwendykier/software/jtransforms
 #Vcs-Svn: https://jtransforms.svn.sourceforge.net/svnroot/jtransforms/trunk
